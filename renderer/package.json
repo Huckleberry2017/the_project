@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/pixi.js": "^4.5.3"
+  },
+  "dependencies": {
+    "@types/socket.io": "^1.4.30"
+  }
+}
